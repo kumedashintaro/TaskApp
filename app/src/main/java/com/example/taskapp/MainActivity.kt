@@ -39,6 +39,17 @@ class MainActivity : AppCompatActivity() {
         }
 
         //Realmの設定
+
+
+        //aaa
+
+        //ccc
+
+        //ddd
+
+        //eee
+
+
         mRealm = Realm.getDefaultInstance()
         mRealm.addChangeListener(mRealmListener)
 
